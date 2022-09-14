@@ -2,5 +2,5 @@
 app_user: "ubuntu"
 http_host: "server1"
 http_conf: "server1.conf"
-http_port: "8085"
+http_port: "8081"
 disable_default: true
